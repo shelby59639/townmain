@@ -19,8 +19,7 @@
         
 
     <link href="CSS/sitemapstylesheet.css" rel="stylesheet">
-    <link href="https://fonts.goofleapis.com/css2?family=Shadows+Into+Light
-    &display=swap" rel="stylesheet"> 
+     
 </head>
 
     
