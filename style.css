@@ -1,0 +1,90 @@
+@charset "utf-8"
+/*CSS Document */
+
+
+
+;body {
+    background: #41393d;
+    margin-left: 350px;
+    margin-right: 320px;
+    padding: 0px;
+}
+
+* { 
+    margin: 0;
+    padding: 0;
+
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+h1 {
+    color: #be1e2d;
+    font-size: 90px;
+    font-family: Majesti-Banner-BookItalic, serif;
+    text-align: left;
+    text-shadow: 0px 0px 20px black;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    color: #be1e2d;
+    font-size: 48px;
+    font-family: Majesti-Banner-BookItalic, serif;
+    font-style: italic;
+    text-align: left;
+    text-shadow: 0px 0px 20px black;
+    margin: 0px;
+    padding: 0px;
+}
+
+h3 {
+    color: #be1e2d;
+    font-size: 30px;
+    font-family: Majesti-Banner-BookItalic, serif;
+    text-align: left;
+    text-shadow: 0px 0px 20px black;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+p {
+    color: white;
+    text-align: justify;
+    font-size: 24px;
+    font-family: athelas, serif;
+    text-shadow: 0px 0px 10px black;
+}
+
+
+
+.img-logo {
+    width:700px;
+    height:200px;
+    background-image: url(images/town_drop.png);
+    background-size: cover; 
+    background-position:center;
+    background-repeat: no-repeat;
+    z-index:2;
+    margin-bottom:15px;
+    box-shadow:0px 2px 2px #000;
+}
+
+.img-food {
+    width:700px;
+    height:200px;
+    background-image: url(images/food_dishes.jpg);
+    background-size: cover; 
+    background-position:absolute;
+    background-repeat: no-repeat;
+    z-index:2;
+    margin-bottom:15px;
+    box-shadow:0px 2px 2px #000;
+    
+}
+
