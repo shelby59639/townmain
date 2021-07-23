@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
     <head>
     <meta charset="utf-8">
-        <title>My Website</title>
+        
         <meta name="description" content="Chinese Cuisine has been providing the 
     best in fine Chinese cuisine to the Newport area since 1960. ">
         <meta name="keywords" content=" Chinese Cuisine, Newport, food, Chinese
