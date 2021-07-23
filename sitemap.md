@@ -1,6 +1,6 @@
 
 
-<!doctype html>
+
 
 <html>
 
@@ -16,7 +16,7 @@
         food, Chinese recipes, menus, location">
         <meta name="viewpoint" content="width=device-width, initial-
         scale=1">
-        <title>Sitemap</title>
+        
 
     <link href="CSS/sitemapstylesheet.css" rel="stylesheet">
     <link href="https://fonts.goofleapis.com/css2?family=Shadows+Into+Light
